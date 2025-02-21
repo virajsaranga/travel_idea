@@ -1,0 +1,27 @@
+{
+  "name": "travel-idea",
+  "version": "1.0.0",
+   "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon backend/server.js",
+    "dev": "concurrently \"npm run server\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "nodemon": "^3.1.9"
+  }
+}
