@@ -27,7 +27,7 @@ const HeroSection = () => {
           width: '100%',
           height: '100%',
           objectFit: 'cover',
-          zIndex: -1,
+          zIndex: -1.5,
         }}
       >
         <source src={heroVideo} type="video/mp4" />
@@ -66,7 +66,7 @@ const HeroSection = () => {
           variant="h5"
           component="p"
           sx={{
-            fontSize: { xs: '1rem', sm: '1.5rem', md: '2rem' },
+            fontSize: { xs: '0.4rem', sm: '0.2rem', md: '0.9rem' },
             mb: 4,
             textShadow: '2px 2px 4px rgba(0, 0, 0, 0.6)',
           }}
@@ -95,23 +95,9 @@ const HeroSection = () => {
         </Button>
       </Box>
 
-      {/* Bottom Section (Optional) */}
-      <Box
-        sx={{
-          position: 'absolute',
-          bottom: 0,
-          left: 0,
-          width: '100%',
-          textAlign: 'center',
-          py: 4,
-          backgroundColor: 'rgba(0, 0, 0, 0.6)',
-          zIndex: 1,
-        }}
-      >
-        <Typography variant="body1" sx={{ fontStyle: 'italic' }}>
-          Please tag along!
-        </Typography>
-      </Box>
+      
+        
+      
     </Box>
   );
 };
