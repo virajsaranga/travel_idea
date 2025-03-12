@@ -7,7 +7,7 @@ const Header = () => {
       <Toolbar>
         {/* Logo or Title */}
         <Typography variant="h6" component="div" sx={{ flexGrow: 2 }}>
-          The World Travel Guy
+          TRAVEL IDEA 
         </Typography>
 
         {/* Navigation Links */}
