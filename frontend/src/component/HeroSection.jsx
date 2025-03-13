@@ -1,6 +1,6 @@
 import React from 'react';
 import { Box, Typography, Button } from '@mui/material';
-import heroVideo from '../assets/hero-video.mp4'; // Import the video
+import heroVideo from '../assets/hero-video.mp4'; 
 
 const HeroSection = () => {
   return (
