@@ -14,7 +14,7 @@ import image9 from '../assets/destination/d9.jpg';
 const DestinationsSection = () => {
   const navigate = useNavigate();
 
-  // Sample data for destinations
+  // Destination data
   const destinations = [
     {
       id: 1,
