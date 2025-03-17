@@ -10,7 +10,7 @@ import post4 from '../assets/4.jpeg';
 const RecentPosts = () => {
   const navigate = useNavigate();
 
-  // Sample data for recent posts
+  
   const recentPosts = [
     {
       id: 1,
