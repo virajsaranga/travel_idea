@@ -23,7 +23,7 @@ const TravelGuides = () => {
     { id: 3, title: 'INCRETBLE JOURNEY AT GALLE', image: image3 },
     { id: 4, title: 'DUNHIDA WATERFALL AT ELLA SRI LANKA', image: image4 },
     { id: 5, title: 'BEAUTIFULL CANEL AT THE DOWN SOUTH', image: image5 },
-    { id: 6, title: 'KUBALWELA ASAPUWA AT KUBALWELA ', image: image6 },
+    { id: 6, title: 'KUBALWELA ASAPUWA AT KUBALWELA', image: image6 },
     { id: 7, title: 'ONE OF THE EVENING I SPENT IN THE PADDY FEILD', image: image7 },
     { id: 8, title: 'NIGHT VIBE IN COLOMBO SRI LANKA', image: image8 },
     { id: 9, title: 'JETHAWANARAMAYA AT ANURADPURA SRI LANKA', image: image9 },
