@@ -15,20 +15,18 @@ const Header = () => {
           <Button color="inherit" href="/">
             HOME
           </Button>
-          <Button color="inherit" href="/blog">
-            BLOG
+          <Button color="inherit" href="#FeaturedSection">
+          Featured
           </Button>
-          <Button color="inherit" href="/destinations">
-            DESTINATIONS
+          <Button color="inherit" href="#Guids">
+            Guids
           </Button>
-          <Button color="inherit" href="/categories">
-            CATEGORIES
+          <Button color="inherit" href="#DestinationsSection">
+          Destinations
           </Button>
-          <Button color="inherit" href="/gallery">
-            GALLERY
-          </Button>
-          <Button color="inherit" href="/about">
-            ABOUT
+        
+          <Button color="inherit" href="#RecentPosts">
+          Recent Posts
           </Button>
           <Button color="inherit" href="/contact">
             CONTACT
