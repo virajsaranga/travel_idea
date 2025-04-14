@@ -17,17 +17,17 @@ function App() {
 
   return (
     <>
-     
       <Header />
-      <HeroSection />
-      <FeaturedSection />
+
+      <div id="home"><HeroSection /></div>
+      <div id="FeaturedSection"><FeaturedSection /></div>
       <ThanksPage />
-      <TravelGuides />
-      <DestinationsSection />
-      <RecentPosts />
-      <GetInTouch />
-      <Newsletter />
-      <Footer />
+      <div id = 'Guids'><TravelGuides /> </div>
+      <div id="DestinationsSection"><DestinationsSection /></div>
+      <div id="RecentPosts"><RecentPosts /></div>
+      <div id="contact"><GetInTouch /></div>
+    
+      <div id="about"><Footer /></div>
     </>
   )
 }
