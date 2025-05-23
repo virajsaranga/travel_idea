@@ -106,7 +106,7 @@ const Footer = () => {
             color: 'white',
           }}
         >
-          © {new Date().getFullYear()} Your Blog Name. All rights reserved.
+          © {new Date().getFullYear()} Travel Idea. All rights reserved.
         </Typography>
       </Container>
     </Box>
