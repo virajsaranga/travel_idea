@@ -127,7 +127,7 @@ const RecentPosts = () => {
               Hey there! I'm Viraj Ridiyagama 
             </Typography>
             <Typography variant="body1" sx={{ mb: 2, color: 'text.primary', lineHeight: 1.6 }}>
-            a passionate traveler, storyteller, and adventurer. For the past 7 years, I’ve been exploring the world, one destination at a time, and documenting my journeys along the way. From bustling cities to remote villages, from towering mountains to serene beaches, I’ve made it my mission to uncover the hidden gems and share the stories that make each place unique.
+            a passionate traveler, storyteller, and adventurer. For the past 3 years, I’ve been exploring the Sri Lanka, one destination at a time, and documenting my journeys along the way. From bustling cities to remote villages, from towering mountains to serene beaches, I’ve made it my mission to uncover the hidden gems and share the stories that make each place unique.
             </Typography>
             <Typography variant="body1" sx={{ mb: 4, color: 'text.primary', lineHeight: 1.6 }}>
               Please tag along!
