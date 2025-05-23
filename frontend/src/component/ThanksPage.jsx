@@ -86,7 +86,7 @@ const ThanksPage = () => {
                   lineHeight: 1.6,
                 }}
               >
-                I'm an Sri Lankan who's been traveling the world full time for 3 years now. I started this travel blog in 2022 to document my own international trips, share my photos, and help others learn how to travel the world and find some really good spots off the beaten path.
+                I'm an Sri Lankan who's been traveling the world full time for 3 years now. I started this travel blog in 2022 to document my own  trips, share my photos, and help others learn how to travel the world and find some really good spots off the beaten path.
               </Typography>
               <Typography
                 variant="body1"
@@ -96,7 +96,7 @@ const ThanksPage = () => {
                   lineHeight: 1.6,
                 }}
               >
-                All of the writing and pictures on this site come from my own personal experience. I'm currently based in colombo, Sri Lanka.
+                All of the writing and pictures on this site come from my own personal experience. I'm currently based in Suriyawewa, Sri Lanka.
               </Typography>
               <Typography
                 variant="body1"
@@ -106,7 +106,7 @@ const ThanksPage = () => {
                   lineHeight: 1.6,
                 }}
               >
-                Together friends, we've done some bucket list hikes, climbed active volcanoes, seen exotic wildlife, and visited some spectacular castles, temples, and monuments around the world. As a Software Engineer When i getting vacation most of time i like to go new places .
+                Together friends, we've done some bucket list hikes, climbed active volcanoes, seen exotic wildlife, and visited some spectacular castles, temples, and monuments around the Sri Lanka. As a Software Engineer When i getting vacation most of time i like to go new places .
               </Typography>
               <Typography
                 variant="body1"
