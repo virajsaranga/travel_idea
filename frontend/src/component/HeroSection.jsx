@@ -85,7 +85,7 @@ const HeroSection = () => {
             borderRadius: '50px',
             boxShadow: '0 4px 6px rgba(0, 0, 0, 0.2)',
             '&:hover': {
-              backgroundColor: 'primary.dark',
+              backgroundColor: '#ffb84d',
               transform: 'scale(1.05)',
               transition: 'transform 0.3s ease',
             },
