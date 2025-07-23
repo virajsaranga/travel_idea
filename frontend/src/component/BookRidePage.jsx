@@ -38,7 +38,7 @@ const cars = [
 
 const BookRidePage = () => {
   return (
-    <Box sx={{ bgcolor: '#1e3a8a', minHeight: '100vh', py: 4 }}>
+    <Box sx={{ bgcolor: '#29448dff', minHeight: '100vh', py: 4 }}>
       <Box
         sx={{
           bgcolor: 'white',
