@@ -18,7 +18,7 @@ const FaqChecklist = () => {
   const handleCheck = (item) => {
     setCheckedItems((prev) => ({ ...prev, [item]: !prev[item] }));
   };
-
+//sample data 
   const faqData = [
     {
       question: "Do I need a visa to travel to this destination?",
